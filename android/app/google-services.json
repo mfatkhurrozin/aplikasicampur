@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618036519145",
+    "project_id": "tugasakhirrmn",
+    "storage_bucket": "tugasakhirrmn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618036519145:android:03f846f217b10c85771078",
+        "android_client_info": {
+          "package_name": "stmik.fatkhurrozin.tugas_akhir_rmn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618036519145-qok5ajj2v045bpehiehveprtejhea2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4jpyputPdvxke6t-OhzpWFvBFG5hMV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618036519145-qok5ajj2v045bpehiehveprtejhea2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
