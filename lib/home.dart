@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'about.dart';
 import 'catatan/catatan.dart';
 import 'camera/imageCamera.dart';
-import 'camera/Camera.dart';
+import 'camera/camera.dart';
 import 'login/sign_in.dart';
 import 'login/authentication.dart';
 import 'camera/gallery.dart';
